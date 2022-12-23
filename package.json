@@ -1,0 +1,16 @@
+{
+    "author": "Devin Howard",
+    "dependencies": {
+        "outdent": "^0.8.0",
+        "prompts": "^2.4.2"
+    },
+    "description": "",
+    "license": "ISC",
+    "main": "src/index.js",
+    "name": "Morrowind DND Character Generator",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.0"
+}
